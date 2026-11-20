@@ -2,6 +2,8 @@
 
 <img src="web/public/logo.svg" width="84" alt="ARTEX logo" />
 
+# BUILD FROM SOURCE
+
 # ARTEX
 
 **Autonomous penetration testing that keeps its receipts.**
